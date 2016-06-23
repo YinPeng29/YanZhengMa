@@ -91,10 +91,10 @@
 					<!-- 设置隐藏域用于进行验证比较 --> 
 					<span class="STYLLE12"> 
 						<font size="+3" color="#FF0000"> 
-							<img alt="" src=num/<%=itmethod1%>.gif> 
-							<img alt="" src=num/<%=itmethod2%>.gif> 
-							<img alt="" src=num/<%=itmethod3%>.gif> 
-							<img alt="" src=num/<%=itmethod4%>.gif>
+							<img alt="" src="num/<%=itmethod1%>.gif"> 
+							<img alt="" src="num/<%=itmethod2%>.gif"> 
+							<img alt="" src="num/<%=itmethod3%>.gif"> 
+							<img alt="" src="num/<%=itmethod4%>.gif">
 						</font>
 					</span>
 				</td>
