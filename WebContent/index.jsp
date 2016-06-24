@@ -34,6 +34,7 @@
 </script>
 </head>
 <body>
+<!-- 这是一个通过jsp 页面实现验证码的程序 -->
 	<form action="check.jsp" id="form1" name="form1" method="post">
 		<table width="364" height="145" border="0" align="center"
 			cellpadding="0" cellspacing="0">
